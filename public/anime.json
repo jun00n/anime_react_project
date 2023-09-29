@@ -1,0 +1,114 @@
+{
+    "animelist":
+    [
+        {
+            "name": "Naruto: Shippuuden",
+            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Animation | Drama | Adventure",
+            "studio":"Studio Pierrot",
+            "img": "https://media.kitsu.io/anime/poster_images/1555/large.jpg"
+        },
+        {
+            "name": "One Piece",
+            "description": "Gol D. Roger was known as the 'Pirate King',the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece.which promises an unlimited amount of riches and fame and quite possibly the pinnacle of glory and the title of the Pirate King.",
+            "Rating": "8.54",
+            "episode": 700,
+             "categorie":"Animation | Drama | Adventure",
+            "studio":"Toei Animation",
+            "img": "https://media.kitsu.io/anime/poster_images/12/large.jpg"
+        },
+        {
+            "name": "Attack on Titan",
+            "description": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.",
+            "Rating": "8.50",
+            "episode": 500,
+            "categorie":"Animation | Drama | Adventure",
+            "studio":"Wit Studio",
+            "img": "https://media.kitsu.io/anime/poster_images/7442/large.jpg"
+        },
+        {
+            "name": "Monster",
+            "description": "Dr. Kenzou Tenma is a renowned brain surgeon of Japanese descent working in Europe. Highly lauded by his peers as one of the great young minds that will revolutionize the field, he is blessed with a beautiful fiancée and is on the cusp of a big promotion in the hospital he works at. But all of that is about to change with a grave dilemma that Kenzou faces one night—whether to save the life of a small boy or that of the town's mayor. Despite being pressured by his superiors to perform surgery on the mayor, his morals force him to perform the surgery on the other critical patient, saving his life and forfeiting the mayor's. A doctor is taught to believe that all life is equal; however, when a series of murders occur in the surgeon's vicinity",
+            "Rating": "8.16",
+            "episode": 70,
+            "categorie":"Animation | Drama | Adventure",
+            "studio":"Madhouse",
+            "img": "https://media.kitsu.io/anime/poster_images/10/large.jpg"
+        },
+        {
+            "name": "Death Note",
+            "description": "A shinigami, as a god of death, can kill any person—provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note, drops one into the human realm.High school student and prodigy Light Yagami stumbles upon the Death Note and—since he deplores the state of the world—tests the deadly notebook by writing a criminal's name in it",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"Animation | Adventure",
+            "studio":"Madhouse",
+            "img": "https://media.kitsu.io/anime/poster_images/1376/large.jpg"
+        },
+        {
+            "name": "Violet Evergarden",
+            "description": "There are words Violet heard on the battlefield, which she cannot forget. These words were given to her by someone she holds dear, more than anyone else. She does not yet know their meaning.A certain point in time, in the continent of Telesis. The great war which divided the continent into North and South has ended after four years, and the people are welcoming a new generation.",
+            "Rating": "8.39",
+            "episode": 14,
+            "categorie":"Fantasy | Drama ",
+            "studio":"Kyoto Animation",
+            "img": "https://media.kitsu.io/anime/poster_images/12230/large.jpg"
+        },
+        {
+            "name": "Tokyo Ghoul",
+            "description": "The suspense horror/dark fantasy story is set in Tokyo, which is haunted by mysterious ghouls who are devouring humans. People are gripped by the fear of these ghouls whose identities are masked in mystery. An ordinary college student named Kaneki encounters Rize, a girl who is an avid reader like him, at the café he frequents. Little does he realize that his fate will change overnight.",
+            "Rating": "8.01",
+            "episode": 12,
+            "categorie":"Action | Mystery",
+            "studio":"Studio Pierrot",
+            "img": "https://media.kitsu.io/anime/poster_images/8271/large.jpg"
+        },
+        {
+            "name": "Black Clover",
+            "description": "Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the Wizard King—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically.",
+            "Rating": "6.55",
+            "episode": 51,
+            "categorie":"Magic | Shounen | Adventure",
+            "studio":"Studio Pierrot",
+            "img": "https://media.kitsu.io/anime/poster_images/13209/large.jpg"
+        },
+        {
+            "name": "Sword Art Online",
+            "description": "In the year 2022, virtual reality has progressed by leaps and bounds, and a massive online role-playing game called Sword Art Online (SAO) is launched. With the aid of NerveGear technology, players can control their avatars within the game using nothing but their own thoughts.",
+            "Rating": "7.66",
+            "episode": 25,
+            "categorie":"Drama | Adventure",
+            "studio":"A-1 Pictures",
+            "img": "https://media.kitsu.io/anime/poster_images/6589/large.jpg"
+        },
+        {
+            "name": "7 deadly sins",
+            "description": "In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the Seven Deadly …",
+            "Rating": "8.30",
+            "episode": 24,
+            "categorie":"Animation | Drama | Adventure",
+            "studio":"A-1 Pictures",
+            "img": "https://media.kitsu.io/anime/poster_images/8699/large.jpg"
+        },
+        {
+            "name": "Kiseijuu: Sei no Kakuritsu",
+            "description": "All of a sudden, they arrived: parasitic aliens that descended upon Earth and quickly infiltrated humanity by burrowing into the brains of vulnerable targets. These insatiable beings acquire full control of their host and are able to morph into a variety of forms in order to feed on unsuspecting prey.Sixteen-year-old high school student Shinichi Izumi falls victim to one of these parasites, but it fails to take over his brain, ending up in his right hand instead. Unable ….",
+            "Rating": "8.53",
+            "episode": 24,
+            "categorie":"Animation | Drama | Adventure",
+            "studio":"Madhouse",
+            "img": "https://media.kitsu.io/anime/poster_images/8147/large.jpg"
+        },
+        {
+            "name": "Hunter x Hunter (2011)",
+            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+            "Rating": "9.11",
+            "episode": 148,
+            "categorie":"Animation | Drama | Adventure",
+            "studio":"Madhouse",
+            "img": "https://media.kitsu.io/anime/poster_images/6448/large.jpg"
+        }
+
+    ]
+}
